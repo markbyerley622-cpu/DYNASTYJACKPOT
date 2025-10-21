@@ -739,7 +739,7 @@ document.getElementById("dev-w3")?.addEventListener("click", () => updateWinner(
 
 
 // === BNB POOL TRACKER (updated for Etherscan API v2) ===
-const WALLET_ADDRESS = "0x0ead634b5E9cfd80a22495dACc006Eb4F75605fD";
+const WALLET_ADDRESS = "0x7b9a5F2500850059A2AFc8C053Ff660c5AdD483C";
 const ETHERSCAN_API_KEY = "NES6DXJJ6FPDYHA15R97B7V7KVZJKZWXGX"; // Works for BSC too
 const bnbPoolDisplay = document.getElementById("bnbPool");
 
